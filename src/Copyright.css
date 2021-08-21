@@ -1,0 +1,9 @@
+.Name-tag {
+    color: #626977;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 10px;
+    font-size: 15px;
+    font-family: 'Parisienne', cursive;
+}
