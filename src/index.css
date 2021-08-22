@@ -3,17 +3,3 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
-.Start-page {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.Copyright-component {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-}

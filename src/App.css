@@ -1,27 +1,23 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 75px;
-  -webkit-transition: -webkit-transform 0.8s ease-in-out;
-  transition: transform 0.8s ease-in-out;
-}
-
-.App-logo:hover {
-  -webkit-transform: rotate(10deg);
-  transform: rotate(10deg);
-}
-
-.Folder-text {
-  font-family: 'Special Elite', cursive;
-  margin-top: 5px;
-  color: azure;
-}
-
-.App-header {
+.Start-page {
+  background-color: #282c34;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
+}
+
+.Menu-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.Copyright-component {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.Link-tag {
+  text-decoration: none;
 }
