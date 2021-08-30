@@ -18,6 +18,12 @@
   right: 0;
 }
 
+.ReturnButton-component {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
 .Link-tag {
   text-decoration: none;
 }
