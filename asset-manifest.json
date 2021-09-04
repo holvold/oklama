@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/oklama/static/css/main.8eb5f3e4.chunk.css",
+    "main.js": "/oklama/static/js/main.b30e1367.chunk.js",
+    "main.js.map": "/oklama/static/js/main.b30e1367.chunk.js.map",
+    "runtime-main.js": "/oklama/static/js/runtime-main.0339aee8.js",
+    "runtime-main.js.map": "/oklama/static/js/runtime-main.0339aee8.js.map",
+    "static/css/2.754175c6.chunk.css": "/oklama/static/css/2.754175c6.chunk.css",
+    "static/js/2.864b7348.chunk.js": "/oklama/static/js/2.864b7348.chunk.js",
+    "static/js/2.864b7348.chunk.js.map": "/oklama/static/js/2.864b7348.chunk.js.map",
+    "index.html": "/oklama/index.html",
+    "static/css/2.754175c6.chunk.css.map": "/oklama/static/css/2.754175c6.chunk.css.map",
+    "static/css/main.8eb5f3e4.chunk.css.map": "/oklama/static/css/main.8eb5f3e4.chunk.css.map",
+    "static/js/2.864b7348.chunk.js.LICENSE.txt": "/oklama/static/js/2.864b7348.chunk.js.LICENSE.txt",
+    "static/media/folder98.d7befd19.png": "/oklama/static/media/folder98.d7befd19.png",
+    "static/media/font-awesome.min.css": "/oklama/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0339aee8.js",
+    "static/css/2.754175c6.chunk.css",
+    "static/js/2.864b7348.chunk.js",
+    "static/css/main.8eb5f3e4.chunk.css",
+    "static/js/main.b30e1367.chunk.js"
+  ]
+}
