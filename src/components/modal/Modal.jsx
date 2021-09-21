@@ -1,5 +1,7 @@
 import React from 'react'
 import './Modal.scss'
+import '../../../node_modules/font-awesome/css/font-awesome.min.css'
+
 
 function Modal({ show, setShow }) {
   if (!show) {
@@ -7,9 +9,13 @@ function Modal({ show, setShow }) {
   } else {
     return (
       <div className="modal" >
-        <div className="content">Hello Modal</div>
-        <div className="actions" >
-          <button className="toggle-button" onClick={() => setShow(false)}> CLOSE </button>
+        <div className="modal-wrapper">
+          <header className="modal-header" >
+            <button className="fa fa-xmark btn" onClick={() => setShow(false)}>X</button>
+          </header>
+          <div className="modal-content">
+            <span>This is a work in progress project</span>
+          </div>
         </div>
       </div>
     )

@@ -6,3 +6,9 @@
 .ReturnButton:hover {
   color: #cecece;
 }
+
+@media (max-width: 480px) {
+  .ReturnButton {
+    margin: 30px;
+  }
+}

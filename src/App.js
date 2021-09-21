@@ -10,6 +10,7 @@ import Copyright from './components/copyright/Copyright'
 import Icon from './components/icon/Icon'
 import ReturnButton from './components/returnButton/ReturnButton'
 import TxtIcon from './components/txtIcon/TxtIcon'
+import SourceCode from './components/sourceCode/SourceCode'
 
 function App() {
   return (
@@ -92,6 +93,9 @@ function App() {
             />
           )}
         />
+      </div>
+      <div className="SourceCode-component">
+        <SourceCode />
       </div>
       <div className="Copyright-component">
         <Copyright />

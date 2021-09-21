@@ -18,6 +18,12 @@
   right: 0;
 }
 
+.SourceCode-component {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
 .ReturnButton-component {
   position: absolute;
   top: 0;
