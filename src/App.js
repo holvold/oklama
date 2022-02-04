@@ -11,6 +11,7 @@ import Icon from './components/icon/Icon'
 import ReturnButton from './components/returnButton/ReturnButton'
 import TxtIcon from './components/txtIcon/TxtIcon'
 import SourceCode from './components/sourceCode/SourceCode'
+import Terminal from './components/terminal/Terminal'
 
 function App() {
   return (
@@ -21,6 +22,13 @@ function App() {
             <ReturnButton />
           </Route>
         </Link>
+          {/* <Route
+            exact={true}
+            path="/"
+            render={(props) => (
+              <Terminal />
+            )}
+          /> */}
         <Link to="/openfolder" className="Link-tag">
           <Route
             exact={true}
